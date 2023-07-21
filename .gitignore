@@ -1,1 +1,11 @@
 Data/
+.venv/
+db.sqlite3
+__pycache__/
+*.pyc
+*.secret
+*.env
+*.config
+*.log
+*.tmp
+requirements.txt
